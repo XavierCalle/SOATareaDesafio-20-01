@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodo_padre>
+    <nodo_hijo>
+        <valor>Valor 1</valor>
+		<datos>
+			<nombre>Xavier</nombre>
+			<apellido>Calle</apellido>
+		</datos>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 2</valor>
+        <datos>
+			<nombre>Karla</nombre>
+			<apellido>Chinacalle</apellido>
+		</datos>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 3</valor>
+        <datos>
+			<nombre>Gabriel</nombre>
+			<apellido>Salgado</apellido>
+		</datos>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 4</valor>
+        <datos>
+			<nombre>Jefferson</nombre>
+			<apellido>Llumiquinga</apellido>
+		</datos>
+    </nodo_hijo>
+    <nodo_hijo>
+        <valor>Valor 5</valor>
+        <datos>
+			<nombre>Andrés</nombre>
+			<apellido>Proaño</apellido>
+		</datos>
+    </nodo_hijo>
+</nodo_padre>
+
+
+
+
+
+
+
+
+
+
+
+

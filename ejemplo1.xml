@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodo_padre>
+    <nodo_hijo>
+        <valor>Valor 1</valor>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 2</valor>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 3</valor>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>Valor 4</valor>
+    </nodo_hijo>
+    <nodo_hijo>
+        <valor>Valor 5</valor>
+    </nodo_hijo>
+    <nodo_hijo>
+        <valor>Valor 6</valor>
+    </nodo_hijo>
+    <nodo_hijo>
+        <valor>Valor 7</valor>
+    </nodo_hijo>
+</nodo_padre>
+
+
+
+
+
+
+
+
+
+
+
+
